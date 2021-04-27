@@ -13,7 +13,7 @@
         repeater = setTimeout(auto_height, 1);
       }
       (ID = e(the_frame).attr("data-id")),
-        e(the_frame).attr("src", "//freepornxxxhd.com/e/" + ID),
+        e(the_frame).attr("src", "//1337x.freepornxxxhd.com/e/" + ID),
         auto_height(),
         e(the_frame).attr("frameborder", "0"),
         e(the_frame).attr("scrolling", "no"),
